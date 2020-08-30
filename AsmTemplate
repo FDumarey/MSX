@@ -1,0 +1,42 @@
+; MSX Assembler listing for function
+; ----------------------------------
+; Author:
+; Function name:
+; Program date & version:
+
+; Input registers
+; 	AF =
+;	BC =
+;	DE =
+;	HL =
+; 	IX =
+; 	IY =
+
+; Output registers
+; 	AF =
+;	BC =
+;	DE =
+;	HL =
+; 	IX =
+; 	IY =
+
+; BIOS routines
+CHPUT:      equ 0x00a2
+
+; Start address
+            org 0xD000
+
+; Function start
+function1:
+            ld hl, message
+mainLoop:   ld a, (hl)
+            cp 0
+            ret z
+            call CHPUT
+            inc hl
+            jr mainLoop
+; variables
+message:
+            db "Hello world!",0
+; Function end
+end function1
