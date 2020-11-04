@@ -8,10 +8,11 @@ I wrote some code and articles for the magazine as from 1990, one example: https
 # MSX future
 In fact there is a real future for the MSX computer:
 https://msxvr.com/en/#
-Mine would ship end of October 2020 and I'm already preparing myself to acquire knowledge of Basic, DOS, Z80 Assembler and of course the BIOS routines.
+Mine would ship end of December 2020 and I'm already preparing myself to acquire knowledge of Basic, DOS, Z80 Assembler and of course the BIOS routines.
 
 # Documentation
 In this repo I put some reference material from Zilog (The Z80 CPU manual) and ASCII (The MSX2 Redbook, or technical documentation).
+I already have an evaluation version of the VR Programming guide that ships with the MSXVR.
 
 # Assembler
 In the upcoming months I will make some Assembler functions than can be used to handle different tasks (mainly VDP).
