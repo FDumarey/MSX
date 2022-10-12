@@ -8,7 +8,7 @@ I wrote some code and articles for the magazine as from 1990, one example: https
 # MSX future
 In fact there is a real future for the MSX computer:
 https://msxvr.com/en/#
-Mine would ship end of December 2020 and I'm already preparing myself to acquire knowledge of Basic, DOS, Z80 Assembler and of course the BIOS routines.
+Mine shipped in August 2021 and I'm already preparing myself to acquire knowledge of Basic, DOS, Z80 Assembler and of course the BIOS routines.
 
 # Documentation
 In this repo I put some reference material from Zilog (The Z80 CPU manual) and ASCII (The MSX2 Redbook, or technical documentation).
@@ -20,3 +20,6 @@ For those that don't own a physical MSX computer, you can of course use this emu
 
 ## Future
 Really looking forward to the VR-Script language that will join the MSXVR. It seems to be some kind of C++ compiler that compiles to Z80 machinecode and that is aware of the MSX BIOS functions. It will also do some kind of Intellisense as known in Visual Studio.
+
+## MyApps folder
+I'm really in love with the "new" MSX-BASIC compiler MSXBAS2ROM. See the Wiki for more information. In this folder, you will find some of my early succesfull tests with this compiler ;-)
