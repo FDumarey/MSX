@@ -23,3 +23,6 @@ Really looking forward to the VR-Script language that will join the MSXVR. It se
 
 ## MyApps folder
 I'm really in love with the "new" MSX-BASIC compiler MSXBAS2ROM. See the Wiki for more information. In this folder, you will find some of my early succesfull tests with this compiler ;-)
+
+## Fusion-v.1.2 pdf
+For those of you who bought the book Fusion-C version 1.1 on amazon.nl. I made a version 1.2 delta, so you can print the pages and add them to your book.
