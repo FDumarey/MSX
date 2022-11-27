@@ -29,8 +29,9 @@ void main (void)
 
   // Test HMMM
   // tried to convert 0x1800 / 256 (pixel based) and copy pixels to memory, but does not work!
-  //HMMM(0,0,0,10,8,8);
-  //HMMM(0,24,0,25,1,1);
+  HMMM(0,0,0,10,8,8);
+  HMMM(0,24,0,25,1,1);
+  WaitKey();
 
   Screen(0);
   Exit(0);
