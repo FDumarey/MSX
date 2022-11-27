@@ -31,3 +31,5 @@ I added a folder named *Modern Game Development*, this folder contains modified 
 
 ## FUSION-C
 For those of you who bought the book Fusion-C version 1.1 on amazon.nl. I made a version 1.2 delta, so you can print the pages and add them to your book. Code examples of Fusion-C v1.2 will follow.
+You can find some .c source code examples here. They are examples of the site of Fusion-C, but added some comments to understand them better.
+I am now working on converting some "Modern MSX BASIC Game Development" examples to Fusion-C. They will be added to this repo when they are ready.
