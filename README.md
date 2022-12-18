@@ -30,6 +30,7 @@ I'm really in love with the "new" MSX-BASIC compiler MSXBAS2ROM. See the Wiki fo
 I added a folder named *Modern Game Development*, this folder contains modified examples for MSXBAS2ROM and MSX-2 from the book "Modern MSX BASIC Game Development" from Raul Portales. The examples cover topics like sprites, tiles in a modern way, and if combined could help you making a modern compiled game.
 
 ## FUSION-C
-For those of you who bought the book Fusion-C version 1.1 on amazon.nl. I made a version 1.2 delta, so you can print the pages and add them to your book. Code examples of Fusion-C v1.2 will follow.
-You can find some .c source code examples here. They are examples of the site of Fusion-C, but added some comments to understand them better.
+For those of you who bought the book Fusion-C version 1.1 on amazon.nl. I made a version 1.2 delta, so you can print the pages and add them to your book. Code examples of Fusion-C v1.2 are present in the .c files.
+You can also find some .c source code examples here from the site of Fusion-C, but added some comments to understand them better.
 I am now working on converting some "Modern MSX BASIC Game Development" examples to Fusion-C. They will be added to this repo when they are ready.
+An imprtant file is the SC4LibraryTest.c file, who is a self developed library to handle Graphics Screen 3 (Basic SCREEN 4) tiles.
